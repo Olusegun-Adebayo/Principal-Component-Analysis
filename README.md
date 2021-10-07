@@ -1,2 +1,2 @@
 # Principal-Component-Analysis
-Implementing PCA from scratch without using machine learning algorithms
+I did all the machine learning without using any of the popular machine learning libraries such as sci-kit-learn and statsmodels. The aim of this project was to implement all the machinery of the various learning algorithms myself, so I could have a deeper understanding of the fundamentals. I implemented and applied PCA from scratch using NumPy in Python, conducted basic exploratory data analysis, and created simple data visualizations with Seaborn and Matplotlib.
